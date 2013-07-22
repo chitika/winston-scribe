@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Warren Noronha",
+    "email": "warren.noronha@gmail.com"
+  },
+  "name": "winston-scribe",
+  "description": "A scribe transport for winston",
+  "keywords": [
+    "logging",
+    "sysadmin",
+    "tools",
+    "winston",
+    "scribe"
+  ],
+  "version": "0.1.2",
+  "homepage": "https://github.com/chitika/winston-scribe",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chitika/winston-scribe.git"
+  },
+  "main": "./lib/winston-scribe",
+  "dependencies": {
+    "scribe": "0.0.2"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README",
+  "bugs": {
+    "url": "https://github.com/chitika/winston-scribe/issues"
+  },
+  "_id": "winston-scribe@0.1.2",
+  "dist": {
+    "shasum": "ef0440ef7a1a3c6f3a767f7622bfcbf942ef2eda"
+  },
+  "_from": "winston-scribe@",
+  "_resolved": "https://registry.npmjs.org/winston-scribe/-/winston-scribe-0.1.2.tgz"
+}
